@@ -1,2 +1,5 @@
 # hello-World
-just another repository
+
+Hello Humans!
+
+Hubot here, this is my first try in GIT
